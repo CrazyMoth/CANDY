@@ -13,7 +13,7 @@ Skin "engine" for barotrauma
 
 // How to get it work? Use the updated Human.xml with the updated Ragdoll.xml to get the error message posted in "Issues" Tab.
 // Alternately you can use CANDY/VANILLA (uploaded here, these are almost the same, use Vanilla.xml instead) to tweak the core package. MAKE SURE TO HAVE BACKUP! 
-If it wouldnt be possible to have CANDY as core package besides VANILLA(The one that comes with the game) that'd be the ideal goal!
+If it would be possible to have CANDY as core package besides VANILLA(The one that comes with the game) that'd be the ideal goal!
 
 Ultimate goal: Add CANDY as core package into the game. 
 
