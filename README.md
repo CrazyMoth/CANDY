@@ -1,5 +1,5 @@
 # CANDY
-Skin mod for barotrauma
+Skin "engine" for barotrauma
 
 // HUMAN.XML -> MOD'S XML 
 // HUMAN2.XML -> CORE REPLACEMENT
