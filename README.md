@@ -28,4 +28,8 @@ How it would be used ?  ( Its just a plan )
 3. Enable CANDY to read the files we want.
 4. Enable skinmods and it should work just like before the ###### update.
 
+// Why need CANDY? > The basic human.xml that been released with the new update, screwing the mods is limited. If we make our own Human.xml it would let the game read the mods the way it was before the update.
 
+The "Vanilla" Core package, included with the game refers to the old one. We need a new core package to refer to our version of Human.xml
+
+Why cant we just modify the existing core package? If we do so, every other people who wants to play with the mod, has to. Its really inconvinient... I wouldnt say it wont work tho.
