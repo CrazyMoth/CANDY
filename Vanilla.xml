@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentpackage name="CANDY" corepackage="FALSE" gameversion="0.17.12.0" altnames="Candy 1.0">
+<contentpackage name="Vanilla" corepackage="true" gameversion="0.17.12.0" altnames="Vanilla 0.9">
   <Item file="Content/Items/idcard.xml" />
   <Item file="Content/Items/Alien/alienitems.xml" />
   <Item file="Content/Items/Button/button.xml" />
@@ -86,8 +86,8 @@
   <Character file="Content/Characters/Hammerheadgold/Hammerheadgold.xml" />
   <Character file="Content/Characters/Hammerheadmatriarch/Hammerheadmatriarch.xml" />
   <Character file="Content/Characters/Hammerheadspawn/Hammerheadspawn.xml" />
-  <!--  <Character file="Content/Characters/Human/Human.xml" />  -->
-  <Character file="W:/SteamLibrary/steamapps/common/Barotrauma/LocalMods/CANDY1/Characters/Human/Human.xml" />
+  <!--<Character file="Content/Characters/Human/Human.xml" /> -->
+  <Character file="Content/Characters/Human/Human2.xml" />
   <Character file="Content/Characters/Husk/Husk.xml" />
   <Character file="Content/Characters/Humanhusk/Humanhusk.xml" />
   <Character file="Content/Characters/Latcher/Latcher.xml" />
