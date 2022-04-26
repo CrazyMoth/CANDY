@@ -33,3 +33,12 @@ How it would be used ?  ( Its just a plan )
 The "Vanilla" Core package, included with the game refers to the old one. We need a new core package to refer to our version of Human.xml
 
 Why cant we just modify the existing core package? If we do so, every other people who wants to play with the mod, has to. Its really inconvinient... I wouldnt say it wont work tho.
+
+
+===== SOME LOGS =====
+
+I updated the old Human.xml and Ragdoll.xml ( what we used in our mods previously ) To fit the new way Barotrauma works. It makes errors yes!
+
+I made CANDY as a core package, but the game doesn't recognizes .. yet.
+
+Tweaked the Vanilla a little but forgot to save. It didnt work anyways.
