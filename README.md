@@ -38,6 +38,7 @@ Why cant we just modify the existing core package? If we do so, every other peop
 ===== SOME LOGS =====
 
 I updated the old Human.xml and Ragdoll.xml ( what we used in our mods previously ) To fit the new way Barotrauma works. It makes errors yes!
+Some info: After updating the files, the skins dont work but it fully renders the default models! 
 
 I made CANDY as a core package, but the game doesn't recognizes .. yet.
 
